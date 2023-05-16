@@ -1,0 +1,18 @@
+id: I3C464B16
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:31:35.606689
+last_modified: 2023-01-04 11:31:35.606695
+source_metadata:
+  collections:
+  - Chögyal Pakpa Lodrö Gyaltsen
+  - Works of Tibetan Masters
+bases:
+  9B12:
+    title: Purification of Negativity through Amitābha
+    base_file: 9B12.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
